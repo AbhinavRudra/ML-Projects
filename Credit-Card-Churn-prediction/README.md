@@ -17,7 +17,7 @@ The objective of this project is to predict customer churn using Deep Learning t
 
 ## Dataset
 
-The dataset is taken from [Kaggle](/home/abhi/Documents/GitHub/Hobby-Projects/Credit-Card-Churn-prediction/Churn_Prediction).
+The dataset is taken from [Kaggle](Hobby-Projects/Credit-Card-Churn-prediction/Churn_Prediction).
 
 ## Dependencies
 
