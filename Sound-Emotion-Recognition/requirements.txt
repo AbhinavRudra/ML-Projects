@@ -1,0 +1,8 @@
+pandas
+numpy
+pickle
+sklearn
+librosa
+matplotlib
+IPython
+streamlit
