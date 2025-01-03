@@ -1,3 +1,4 @@
+
 # Sound Emotion Recognition
 
 ## Project Description
@@ -43,5 +44,3 @@ Speech_Emotion_Recognition_Random_Forest_Model/ml_app.py
 ```
 ## Output Image
 ![Streamlit interface](./images/Output.png)
- 
-
