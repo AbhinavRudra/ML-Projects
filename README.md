@@ -1,46 +1,34 @@
+# ML-Projects
 
-# Sound Emotion Recognition
+This repository is a collection of machine learning projects. The repository will be constantly updated with new projects and improvements. Each project focuses on solving specific problems using machine learning techniques, complete with datasets, notebooks, and scripts for deployment.
 
-## Project Description
-A simple Sound Emotion Recognition classifier using ravsess dataset.The model used to build the classifier is Random Forest
+## Repository Structure
+The repository is organized into the following subfolders:
 
-## Streamlit UI 
-## Installation
+| S.No | Project Title                   | Subdirectory Link                                      |
+|------|---------------------------------|-------------------------------------------------------|
+| 1    | Credit Card Churn Prediction    | [Credit-Card-Churn-prediction](./Credit-Card-Churn-prediction/) |
+| 2    | Insurance Cost Prediction       | [Insurance_Cost_prediction](./Insurance_Cost_prediction/)       |
+| 3    | Sound Emotion Recognition       | [Sound-Emotion-Recognition](./Sound-Emotion-Recognition/)       |
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install streamlit.
+### 1. Credit Card Churn Prediction
+- **Description:** Predict customer churn for a credit card company using machine learning.
 
-```bash
-pip install streamlit
-```
+### 2. Insurance Cost Prediction
+- **Description:** Predict insurance costs based on various customer attributes.
 
-## Usage
+### 3. Sound Emotion Recognition
+- **Description:** Recognize emotions from audio recordings using a random forest classifier.
 
-```python
-import foobar
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AbhinavRudra/ML-Projects.git
+   ```
+2. Navigate to the desired project folder to explore the files and follow the instructions in its `README.md`.
 
-# Adds Title in webpage
-st.title("Sound Emotion Recognition App")
+## Contributions
+Contributions and suggestions are welcome! If you'd like to improve a project or add a new one, feel free to fork the repository and create a pull request.
 
-#Adds image in webpage
-st.image('images used/img_emotion.png')
-
-#Adds widget to upload audio file
-st.file_uploader("Upload an audio file", type=["wav", "mp3"])
-
-#Open file at the given location, with fixed audio types
-st.audio(audio_file, format='audio/wav')
-
-#Displays test(formatted)
-st.write(f"Prediction: {prediction[0]}")
-
-```
-
-## Running ml_app.py
-
-```bash
-streamlit run '<your-root-location>'/SIG-AI-HUB/MACHINE_LEARNING_PROJECTS/SUPERVISED_LEARNING_PROJECTS/
-Speech_Emotion_Recognition_Random_Forest_Model/ml_app.py
-
-```
-## Output Image
-![Streamlit interface](./images/Output.png)
+---
+Stay tuned for more exciting projects and updates! 🚀
