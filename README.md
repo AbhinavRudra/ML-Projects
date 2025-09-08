@@ -31,4 +31,3 @@ The repository is organized into the following subfolders:
 Contributions and suggestions are welcome! If you'd like to improve a project or add a new one, feel free to fork the repository and create a pull request.
 
 ---
-Stay tuned for more exciting projects and updates! 🚀
