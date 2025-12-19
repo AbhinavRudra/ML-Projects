@@ -20,14 +20,4 @@ The repository is organized into the following subfolders:
 ### 3. Sound Emotion Recognition
 - **Description:** Recognize emotions from audio recordings using a random forest classifier.
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AbhinavRudra/ML-Projects.git
-   ```
-2. Navigate to the desired project folder to explore the files and follow the instructions in its `README.md`.
-
-## Contributions
-Contributions and suggestions are welcome! If you'd like to improve a project or add a new one, feel free to fork the repository and create a pull request.
-
 ---
