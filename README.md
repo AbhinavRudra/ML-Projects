@@ -10,6 +10,8 @@ The repository is organized into the following subfolders:
 | 1    | Credit Card Churn Prediction    | [Credit-Card-Churn-prediction](./Credit-Card-Churn-prediction/) |
 | 2    | Insurance Cost Prediction       | [Insurance_Cost_prediction](./Insurance_Cost_prediction/)       |
 | 3    | Sound Emotion Recognition       | [Sound-Emotion-Recognition](./Sound-Emotion-Recognition/)       |
+| 4    | MNIST Digit Recognition         | [MNIST-Digit-Recognition](./MNIST Digit Recognition.ipynb)      |
+
 
 ### 1. Credit Card Churn Prediction
 - **Description:** Predict customer churn for a credit card company using machine learning.
@@ -19,5 +21,8 @@ The repository is organized into the following subfolders:
 
 ### 3. Sound Emotion Recognition
 - **Description:** Recognize emotions from audio recordings using a random forest classifier.
+
+### 4. MNIST Digit Recognition
+- **Description:** Recognize digits from standard mnist dataset
 
 ---
